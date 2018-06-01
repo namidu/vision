@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/namidu/vision/issues"
   },
-  "homepage": "https://github.com/namidu/vision#readme"
+  "homepage": "https://github.com/namidu/vision#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
 }
